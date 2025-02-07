@@ -25,7 +25,7 @@ npm install
 Create a .env file in the project root and add the necessary environment variables:
 
 ```js
-REACT_APP_API_URL=<YOUR_API_URL>
+VITE_BASE_URL=<YOUR_API_URL>
 ```
 
 ### 4. Start the Development Server
