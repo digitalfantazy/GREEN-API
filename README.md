@@ -1,5 +1,3 @@
-# React + TypeScript + Vite
-
 # React GREEN-API
 
 ## Running the Project Locally
@@ -7,7 +5,12 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone <REPOSITORY_URL>
+git clone https://github.com/digitalfantazy/GREEN-API.git
+```
+
+if needed
+
+```bash
 cd <PROJECT_NAME>
 ```
 
